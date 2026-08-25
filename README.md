@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=260&section=header&text=BRAYAN%20MORENO&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20SYSTEMS%20ENGINEERING&descAlignY=61&descSize=16&descColor=94A3B8"/>
+# BRAYAN MORENO
+
+### Software Developer · Systems Engineering
 
 <br>
 
-<a href="https://github.com/IngeCraft221">
-<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://github.com/IngeCraft221?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Designing+software+with+purpose.;Engineering+scalable+digital+systems.;Mobile+%7C+Backend+%7C+Cloud+%7C+Security"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems.;Mobile+%7C+Backend+%7C+Cloud+%7C+Security;From+idea+to+production."/>
+<a href="https://github.com/IngeCraft221">
+<img src="https://img.shields.io/badge/GitHub-IngeCraft221-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,84 +20,87 @@
 
 <div align="center">
 
-`SOFTWARE ENGINEERING`  •  `MOBILE`  •  `BACKEND`  •  `CLOUD`  •  `SECURITY`
+`SOFTWARE ENGINEERING`   ·  
+`MOBILE DEVELOPMENT`   ·  
+`BACKEND`   ·  
+`CLOUD`   ·  
+`CYBERSECURITY`
 
 </div>
 
 ---
 
-# 👨‍💻 Who I Am
+## 01 — Profile
 
-> **I don't just build features. I build systems.**
+I am a **Software Developer and Systems Engineering student** focused on designing and developing modern digital systems.
 
-I'm a Systems Engineering student and software developer interested in designing and building products that combine **technology, business logic and user experience**.
+My interests sit at the intersection of **software engineering, product development and technology architecture**.
 
-My focus is not limited to making an application work.
+I approach development beyond simply writing code:
 
-I care about:
+```text
+Understand
+    ↓
+Model
+    ↓
+Design
+    ↓
+Engineer
+    ↓
+Validate
+    ↓
+Improve
+```
 
-* **Architecture** — how the system is structured.
-* **Maintainability** — how easily it can evolve.
-* **Security** — how data and users are protected.
-* **UX/UI** — how naturally people interact with the product.
-* **Scalability** — how the system behaves as it grows.
-* **Business value** — whether the software actually solves the problem.
+My goal is to build software that is **maintainable, secure, scalable and intuitive to use**.
 
 ---
 
-# 🧭 What I Build
+## 02 — Engineering Focus
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 📱
+### SOFTWARE
 
-### MOBILE
-
-Flutter applications
-Modern interfaces
-Offline-first thinking
-Push notifications
+Architecture
+Clean Code
+Design Patterns
+SOLID
 
 </td>
 
 <td width="25%" align="center">
 
-### ☁️
+### PRODUCT
 
-### BACKEND
+UX / UI
+Usability
+Performance
+Accessibility
 
+</td>
+
+<td width="25%" align="center">
+
+### SYSTEMS
+
+Backend
+Cloud
+Databases
 APIs
-Authentication
-Cloud services
-Data architecture
 
 </td>
 
 <td width="25%" align="center">
-
-### 🏢
-
-### BUSINESS
-
-SaaS
-ERP
-Automation
-Management systems
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔐
 
 ### SECURITY
 
-Secure development
-Threat modeling
+Secure Development
 Authentication
-Data protection
+Authorization
+Threat Modeling
 
 </td>
 </tr>
@@ -107,269 +108,152 @@ Data protection
 
 ---
 
-# ⚙️ Technology
+## 03 — Technology
 
 <div align="center">
 
-### Core
+### Languages
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=dart,java,js,sql"/>
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=flutter,html,css"/>
+
+<br><br>
 
 ### Backend & Data
 
 <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres"/>
 
-### Engineering
+<br><br>
+
+### Engineering Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 
 </div>
 
-<br>
+---
+
+## 04 — Architecture Mindset
+
+I am particularly interested in how individual features become **well-designed software systems**.
+
+```text
+┌──────────────────────────────────────────────┐
+│                 USER / CLIENT                │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                    UX / UI                   │
+│       Interaction · Accessibility · Flow     │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│               APPLICATION LAYER              │
+│          Business Rules · Use Cases          │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                 DOMAIN LAYER                 │
+│          Models · Rules · Contracts           │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│              INFRASTRUCTURE                 │
+│       APIs · Database · Cloud · Services     │
+└──────────────────────────────────────────────┘
+```
+
+### Principles I value
+
+* **Separation of concerns**
+* **Low coupling**
+* **High cohesion**
+* **Clear abstractions**
+* **Testable business logic**
+* **Explicit contracts**
+* **Secure defaults**
+* **Maintainable code**
+
+---
+
+## 05 — How I Think About Software
+
+### Architecture
+
+> A system should be designed for change, not only for the requirements of today.
+
+### UX / UI
+
+> Good interfaces reduce cognitive load and make the correct action obvious.
+
+### Security
+
+> Security should be part of the architecture, not a patch added at the end.
+
+### Performance
+
+> Performance is part of the user experience.
+
+### Code
+
+> Clean code is not about making code look elegant. It is about making future change less expensive.
+
+---
+
+## 06 — Areas of Interest
 
 <div align="center">
 
-**Flutter** · **Dart** · **Java** · **JavaScript** · **Firebase** · **Firestore** · **MySQL** · **SQL** · **Git**
+|      Engineering      |      Product     |         Emerging        |
+| :-------------------: | :--------------: | :---------------------: |
+| Software Architecture |       SaaS       | Artificial Intelligence |
+|    Backend Systems    |        ERP       |        AI Agents        |
+|   Cloud Architecture  |    Automation    |   Intelligent Systems   |
+|     Cybersecurity     | Digital Products |     Cloud Computing     |
+|       Databases       |  UX Engineering  |     Developer Tools     |
 
 </div>
 
 ---
 
-# 🧩 Engineering Approach
+## 07 — Professional Development
+
+My current direction is centered around becoming a stronger **end-to-end software engineer**.
+
+```text
+                  SOFTWARE ENGINEERING
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ▼                 ▼                 ▼
+    ARCHITECTURE       PRODUCT           SECURITY
+        │                 │                 │
+        ▼                 ▼                 ▼
+     BACKEND             UX/UI            CLOUD
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ▼
+                     AI & SYSTEMS
+```
+
+I continuously work on improving both **technical depth** and **product thinking**.
+
+---
+
+## 08 — GitHub
 
 <div align="center">
 
-```text
-                    ┌─────────────────────┐
-                    │       PROBLEM       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     REQUIREMENTS    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     ARCHITECTURE    │
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┼─────────────┐
-                 ▼             ▼             ▼
-            ┌─────────┐   ┌─────────┐   ┌─────────┐
-            │   UX    │   │ BUSINESS│   │ SECURITY│
-            └────┬────┘   └────┬────┘   └────┬────┘
-                 │             │             │
-                 └─────────────┼─────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │    DEVELOPMENT      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      TESTING        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     PRODUCTION      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ CONTINUOUS IMPROVE  │
-                    └─────────────────────┘
-```
-
-</div>
-
----
-
-# 🚀 Selected Work
-
-## 01 — Spartan Gym
-
-### A digital platform for gym management
-
-**Problem**
-
-Small gyms need to manage clients, memberships, training and nutrition without relying on disconnected processes.
-
-**Solution**
-
-A mobile platform that centralizes the client experience and business management.
-
-### Product
-
-```text
-CLIENT
-  │
-  ├── Profile
-  ├── Membership
-  ├── Training
-  ├── Nutrition
-  ├── Progress
-  └── Notifications
-          │
-          ▼
-      FIREBASE
-          │
-          ▼
-       FIRESTORE
-```
-
-### Key features
-
-`Client Management` · `Memberships` · `Training Plans` · `Nutrition` · `Progress` · `PDF Reports` · `Notifications`
-
-### Stack
-
-**Flutter · Dart · Firebase · Firestore**
-
----
-
-## 02 — Panadería Rey
-
-### Customer management for a real business
-
-A business-oriented application focused on replacing manual customer tracking with a centralized digital workflow.
-
-### Design priorities
-
-**Simple workflows**
-
-**Fast data access**
-
-**Minimal cognitive load**
-
-**Mobile-first interaction**
-
-### Stack
-
-**Flutter · Dart · Firebase · Firestore**
-
----
-
-## 03 — Delicias Caseras
-
-### Java Web Business Application
-
-A web application developed around a traditional Java architecture.
-
-```text
-        JSP
-         │
-         ▼
-      SERVLETS
-         │
-         ▼
-        JDBC
-         │
-         ▼
-       MySQL
-```
-
-**Java · JSP · JDBC · MySQL · Maven**
-
----
-
-# 🎨 Product Design Philosophy
-
-Good software is not only technically correct.
-
-It should also **feel correct**.
-
-### My UI/UX priorities
-
-| Principle         | Objective                                                |
-| ----------------- | -------------------------------------------------------- |
-| **Clarity**       | The user should understand what to do immediately.       |
-| **Hierarchy**     | Important information should visually dominate.          |
-| **Consistency**   | Components should behave predictably.                    |
-| **Feedback**      | Every important action should communicate its result.    |
-| **Accessibility** | Interfaces should work for different users and contexts. |
-| **Performance**   | UX includes perceived and actual performance.            |
-| **Simplicity**    | Remove unnecessary decisions and interactions.           |
-
----
-
-# 🏗️ Architecture Mindset
-
-I am particularly interested in the transition from:
-
-```text
-"How do I implement this feature?"
-```
-
-to:
-
-```text
-"How should this system be designed?"
-```
-
-That means thinking about:
-
-* Domain boundaries
-* Data modeling
-* Application layers
-* Authentication
-* Authorization
-* API contracts
-* Error handling
-* State management
-* Security
-* Observability
-* Scalability
-* Maintainability
-
----
-
-# 🔐 Security
-
-Security is considered during development rather than added at the end.
-
-### Areas of interest
-
-```text
-Authentication
-      ↓
-Authorization
-      ↓
-Input Validation
-      ↓
-Data Protection
-      ↓
-Threat Modeling
-      ↓
-Secure Architecture
-```
-
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
-
-|       AREA       | DIRECTION                                        |
-| :--------------: | :----------------------------------------------- |
-| 🏗️ Architecture | Clean Architecture · SOLID · Design Patterns     |
-|     ☁️ Cloud     | Firebase · Cloud Services · Backend Architecture |
-|       🤖 AI      | AI-powered products · Intelligent automation     |
-|    🔐 Security   | Secure Software Development                      |
-|     📱 Mobile    | Flutter Architecture · Advanced UX               |
-|      💼 SaaS     | Multi-tenant systems · Business automation       |
-|      🏢 ERP      | Modular enterprise systems                       |
-
-</div>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IngeCraft221&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=60A5FA&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IngeCraft221&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=60A5FA&rank_icon=github"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngeCraft221&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8"/>
 
@@ -379,58 +263,23 @@ Secure Architecture
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=IngeCraft221&bg_color=0B0F19&color=94A3B8&line=60A5FA&point=FFFFFF&area=true&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IngeCraft221&bg_color=0B0F19&color=94A3B8&line=60A5FA&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Development
+## 09 — Engineering Philosophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IngeCraft221&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+### Think in systems.
 
-</div>
+### Design for people.
 
----
+### Build with purpose.
 
-# 🎯 2026
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  BUILD                                            │
-│  ├── Production-ready applications                │
-│  ├── SaaS products                                │
-│  └── Business automation                          │
-│                                                    │
-│  LEARN                                            │
-│  ├── Software architecture                        │
-│  ├── Cloud engineering                            │
-│  ├── Cybersecurity                                │
-│  └── Artificial intelligence                      │
-│                                                    │
-│  CONTRIBUTE                                       │
-│  ├── Open source                                  │
-│  └── Developer community                          │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# 💬 Philosophy
-
-<div align="center">
-
-### **Think in systems.**
-
-### **Design for people.**
-
-### **Build with purpose.**
-
-### **Improve continuously.**
+### Engineer for change.
 
 </div>
 
@@ -440,8 +289,10 @@ Secure Architecture
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0B0F19&height=120&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20SYSTEM%20AT%20A%20TIME&fontSize=16&fontColor=94A3B8&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0B0F19&section=footer&text=BUILD.%20LEARN.%20ENGINEER.&fontSize=20&fontColor=94A3B8&animation=fadeIn"/>
+
+<br>
+
+<sub>Brayan Moreno · Colombia 🇨🇴</sub>
 
 </div>
-
-
