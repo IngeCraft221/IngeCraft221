@@ -1,117 +1,106 @@
 <div align="center">
 
-# 👋 Hi, I'm **Brayan Moreno**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:1e3a8a&text=BRAYAN%20MORENO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20Engineering&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-### Software Developer · Systems Engineering · Mobile & Full-Stack
+<br>
 
-<p>
-  <a href="https://github.com/IngeCraft221">
-    <img src="https://img.shields.io/badge/GitHub-IngeCraft221-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
-
-<p>
-  <strong>Building software that solves real-world problems.</strong>
-</p>
+<a href="https://github.com/IngeCraft221">
+<img src="https://img.shields.io/github/followers/IngeCraft221?style=flat-square&logo=github&label=Followers&color=111827"/>
+</a>
+&nbsp;
+<a href="https://github.com/IngeCraft221">
+<img src="https://komarev.com/ghpvc/?username=IngeCraft221&style=flat-square&label=Profile%20Views&color=111827"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` — Profile
 
-I'm a **Systems Engineering student and Software Developer** focused on building modern applications with clean architecture, scalable backends and intuitive user experiences.
+```text
+Brayan Moreno
+Software Developer & Systems Engineering Student
+Colombia 🇨🇴
 
-My main interests are:
+Focus:
+→ Mobile Applications
+→ Full-Stack Development
+→ Software Architecture
+→ Cloud & Backend
+→ Cybersecurity
+→ Artificial Intelligence
+→ SaaS & Business Systems
+```
 
-* 📱 Mobile application development
-* 🌐 Full-Stack development
-* ☁️ Cloud & Backend technologies
-* 🔐 Application security
-* 🏗️ Software architecture
-* 🤖 Artificial Intelligence
-* 🚀 SaaS & business systems
+I build software focused on **real business problems**, combining engineering, usability and automation.
 
-I enjoy taking an idea from **concept → architecture → development → deployment**.
+My approach is simple:
+
+> **Understand the problem → design the system → build the solution → improve continuously.**
 
 ---
 
-## ⚡ Technology Stack
+# `02` — Engineering Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### 📱 Mobile
+### Languages
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+**Dart**
+**Java**
+**JavaScript**
+**SQL**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+### Application Development
 
-</td>
-
-<td valign="top" width="33%">
-
-### 🌐 Backend
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+**Flutter**
+**JSP**
+**HTML / CSS**
 
 </td>
 
-<td valign="top" width="33%">
+<td width="50%" valign="top">
 
-### 🗄️ Database
+### Backend & Cloud
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+**Firebase**
+**Cloud Firestore**
+**JDBC**
+**REST APIs**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+### Databases
+
+**MySQL**
+**Firestore**
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🎨 Frontend
+### Engineering
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-</td>
-
-<td valign="top">
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+**Clean Architecture**
+**Design Patterns**
+**Database Design**
+**API Design**
+**Authentication & Authorization**
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🔐 Interests
+### Dev & Security
 
-Security
-
-Architecture
-
-Cloud
-
-Artificial Intelligence
+**Git / GitHub**
+**Android Studio**
+**VS Code**
+**Threat Modeling**
+**Application Security**
 
 </td>
 </tr>
@@ -119,87 +108,137 @@ Artificial Intelligence
 
 ---
 
-# 🚀 Featured Projects
+# `03` — Selected Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## 🏋️ Spartan Gym
+## Spartan Gym
 
-A modern gym management platform designed to connect **clients, coaches and business management**.
+### Digital Gym Management Platform
 
-### Features
+A mobile platform designed to centralize gym operations and provide clients with a personalized digital experience.
 
-* 👤 Client management
-* 💳 Membership management
-* 🏋️ Training plans
-* 🥗 Nutrition plans
-* 📊 Progress tracking
-* 🔔 Notifications
-* 📄 PDF generation
-* ☁️ Cloud backend
-* 🤖 AI-oriented features
+**Architecture**
 
-**Flutter · Dart · Firebase · Firestore**
+```text
+Flutter
+   │
+   ├── Authentication
+   ├── Client Management
+   ├── Training
+   ├── Nutrition
+   ├── Progress
+   └── Notifications
+          │
+          ▼
+     Firebase
+          │
+          ▼
+      Firestore
+```
+
+**Core capabilities**
+
+* Client management
+* Membership control
+* Training programs
+* Nutrition plans
+* Progress tracking
+* PDF generation
+* Notifications
+* Cloud persistence
+* AI-oriented features
+
+`Flutter` `Dart` `Firebase` `Firestore`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🥖 Panadería Rey
+## Panadería Rey
 
-Digital management solution designed for a local bakery.
+### Business Management Platform
 
-### Features
+Digital solution focused on helping a local bakery organize and manage customer information.
 
-* 👥 Customer management
-* 📋 Customer tracking
-* 🏪 Business management
-* ☁️ Cloud data
-* 📱 Mobile-first interface
+**Focus**
 
-**Flutter · Dart · Firebase · Firestore**
+```text
+Customers
+    ↓
+Information
+    ↓
+Management
+    ↓
+Automation
+    ↓
+Business Intelligence
+```
+
+**Core capabilities**
+
+* Customer management
+* Customer tracking
+* Cloud persistence
+* Mobile-first UX
+* Business-oriented workflows
+
+`Flutter` `Dart` `Firebase` `Firestore`
 
 </td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏠 Delicias Caseras
+## Delicias Caseras
 
-Web application focused on business and product management.
+### Java Web Application
 
-### Stack
+Business-oriented web application developed using a traditional Java architecture.
 
-* Java
-* JSP
-* JDBC
-* MySQL
-* Maven
+**Technology**
 
-**Java · MySQL · JSP · JDBC**
+```text
+JSP
+ │
+ ▼
+JDBC
+ │
+ ▼
+MySQL
+```
+
+**Stack**
+
+`Java` `JSP` `JDBC` `MySQL` `Maven`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💡 What I'm Building
+## Upcoming Projects
 
-I'm interested in creating:
+I'm currently interested in building systems around:
 
-* SaaS platforms
-* ERP systems
-* Business automation
-* AI-powered applications
-* Cloud-based systems
-* Security-focused software
+### SaaS
 
-**Idea → Architecture → Code → Product**
+Multi-tenant platforms for businesses.
+
+### ERP
+
+Modular systems for business operations.
+
+### AI
+
+Intelligent assistants and automation.
+
+### Security
+
+Secure-by-design applications.
 
 </td>
 
@@ -208,96 +247,119 @@ I'm interested in creating:
 
 ---
 
-# 🏗️ Engineering Mindset
+# `04` — Architecture
+
+I am moving beyond simply implementing features and focusing on **how complete systems are designed**.
 
 ```text
-┌─────────────────────────────────────────────┐
-│              SOFTWARE ENGINEERING           │
-├─────────────────────────────────────────────┤
-│                                             │
-│   🎯 Requirements                           │
-│          ↓                                  │
-│   🏗️ Architecture                           │
-│          ↓                                  │
-│   💻 Development                             │
-│          ↓                                  │
-│   🧪 Testing                                 │
-│          ↓                                  │
-│   🔐 Security                                │
-│          ↓                                  │
-│   🚀 Deployment                              │
-│          ↓                                  │
-│   📈 Continuous Improvement                  │
-│                                             │
-└─────────────────────────────────────────────┘
+                    ┌──────────────────┐
+                    │     CLIENT       │
+                    │ Mobile / Web     │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   APPLICATION    │
+                    │ Business Logic   │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │      DATA        │
+                    │ SQL / NoSQL      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ CLOUD / SERVICES │
+                    │ APIs / Firebase  │
+                    └──────────────────┘
 ```
 
-I don't want to just write code.
+### Current engineering interests
 
-I want to understand **the problem, the architecture and the business behind the software**.
+`Clean Architecture` · `SOLID` · `Design Patterns` · `REST APIs` · `Cloud Architecture` · `Security` · `Scalability`
 
 ---
 
-# 📚 Currently Learning
+# `05` — Development Principles
+
+### 01 — Solve the problem first
+
+Technology is a tool. The real objective is solving the user's problem.
+
+### 02 — Design before scaling
+
+A good architecture should make future changes easier, not harder.
+
+### 03 — Security by design
+
+Authentication, authorization, validation and data protection should not be afterthoughts.
+
+### 04 — Build for evolution
+
+Software should be designed to change.
+
+### 05 — User experience matters
+
+A technically excellent system is useless if the user cannot use it comfortably.
+
+---
+
+# `06` — Current Focus
 
 <div align="center">
 
-| Area             | Focus                                  |
-| ---------------- | -------------------------------------- |
-| 🏗️ Architecture | Clean Architecture · Design Patterns   |
-| ☁️ Cloud         | Firebase · Backend Services            |
-| 🔐 Security      | Application Security · Threat Modeling |
-| 🤖 AI            | AI-powered applications                |
-| 📱 Mobile        | Flutter · Advanced UI/UX               |
-| 🌐 Backend       | APIs · Databases · Scalable Systems    |
+|        Domain        | Focus                                        |
+| :------------------: | :------------------------------------------- |
+| 🏗️ **Architecture** | Clean Architecture · SOLID · Design Patterns |
+|     ☁️ **Cloud**     | Firebase · Backend · Distributed Services    |
+|    🔐 **Security**   | Secure Development · Threat Modeling         |
+|       🤖 **AI**      | AI-assisted applications · Automation        |
+|     📱 **Mobile**    | Flutter · Advanced UI/UX                     |
+|    💼 **Business**   | SaaS · ERP · Process Automation              |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# `07` — GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IngeCraft221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IngeCraft221&show_icons=true&hide_border=true&theme=transparent&title_color=1e3a8a&text_color=64748b&icon_color=2563eb&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngeCraft221&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngeCraft221&layout=compact&hide_border=true&theme=transparent&title_color=1e3a8a&text_color=64748b&include_all_commits=true"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IngeCraft221&hide_border=true&theme=transparent&ring=2563eb&fire=1e3a8a&currStreakLabel=1e3a8a"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IngeCraft221&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
+# `08` — Roadmap
 
 ```text
-☑ Improve software architecture
-☑ Build production-ready applications
-☑ Strengthen cybersecurity knowledge
-☑ Develop scalable SaaS products
-☐ Build and launch a SaaS product
-☐ Contribute to open-source projects
-☐ Build AI-powered applications
+2026
+
+Software Architecture        ███████████████░░░  80%
+Flutter / Mobile             ████████████████░░  85%
+Firebase / Backend            ██████████████░░░░  75%
+Cybersecurity                 ████████████░░░░░░  65%
+AI Integration                ██████████░░░░░░░░  55%
+Cloud Architecture            ████████░░░░░░░░░░  45%
+SaaS Architecture             ███████░░░░░░░░░░░  40%
 ```
 
 ---
 
-# 💬 Developer Philosophy
+# `09` — GitHub Activity
 
 <div align="center">
 
-### "Good software is not only code that works."
-
-### "It is software that can evolve."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IngeCraft221&bg_color=ffffff&color=1e293b&line=2563eb&point=1e3a8a&area=true&hide_border=true"/>
 
 </div>
 
@@ -305,14 +367,20 @@ I want to understand **the problem, the architecture and the business behind the
 
 <div align="center">
 
-### 🤝 Let's build something great.
+## Let's build something meaningful.
 
-<p>
-  <a href="https://github.com/IngeCraft221">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+**Software · Architecture · Innovation · Technology**
 
-<img src="https://komarev.com/ghpvc/?username=IngeCraft221&style=for-the-badge&color=blue">
+<br>
+
+<a href="https://github.com/IngeCraft221">
+<img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Designed & built by Brayan Moreno · Colombia 🇨🇴</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e3a8a,50:111827,100:0f172a"/>
